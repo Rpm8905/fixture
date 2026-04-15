@@ -1,6 +1,5 @@
 from app.database.db import obtener_conexion
 
-
 def validar_resultado(datos_resultado):
     errores = []
 
